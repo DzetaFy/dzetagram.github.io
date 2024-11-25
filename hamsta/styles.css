@@ -31,8 +31,8 @@ h1 {
 }
 
 #dzeta-button img {
-  width: 1280px;
-  height: 586px;
+  width: 586px;
+  height: 1280px;
   transition: transform 0.1s ease-in-out;
 }
 
